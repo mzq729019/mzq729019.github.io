@@ -12,4 +12,4 @@ I'm boring
 
 ### Contact me
 
-[email@domain.com](mailto:mzq729019@gmail.com)
+[mzq729019@gmail.com](mailto:mzq729019@gmail.com)
