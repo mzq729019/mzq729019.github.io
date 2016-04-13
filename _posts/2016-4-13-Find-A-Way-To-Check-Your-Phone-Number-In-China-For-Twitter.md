@@ -1,0 +1,3 @@
+We all know that for some reasons, people in China can't access twitter.What's more, some of us can't even receive SMS from twitter.This problem bothers me a lot.For a long time, I can't set up step verification to secure my Twitter account.A method I found today really cheer me up.
+
+Well, install the twitter client in your phone(I know, I know, the official client sucks,).Get in the setting and click your account, edit phone number.Because my phone has a google account, and my google account has linked to twitter account, so it works, although I still don't know why I can receive SMS from twitter this time.Believe me, I have tried a thousand time in the web to verify my phone number, I just didn't get SMS, but it works in app, really weird huh? 
